@@ -2,9 +2,11 @@
 
 欢迎来到我的主页 
 
-<img src="./images/aila1.gif" width="100">
-<img src="./images/aila2.gif" width="100">
-<img src="./images/aila3.gif" width="100">
+<div style="display: flex; justify-content: space-around;">
+    <img src="./images/aila1.gif" width="100">
+    <img src="./images/aila2.gif" width="100">
+    <img src="./images/aila3.gif" width="100">
+</div>
 
 ## 关于我
 - 学生来自CQUPT
