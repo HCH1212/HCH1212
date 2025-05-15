@@ -19,5 +19,3 @@
 - 框架：Gin、Gorm、Kitex、Hertz
 - 数据库：MySQL、Redis
 - 其他：Docker、Git、Linux
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HCH1212&show_icons=true&theme=radical)
