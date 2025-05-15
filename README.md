@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi there, I'm a Gopher. 👋 
 
 欢迎来到我的主页 
 
@@ -9,13 +9,18 @@
 </div>
 
 ## 关于我
-- 学生来自CQUPT
-- 工作室来自Redrock、CquptHub
-- gopher
-- 二次元
+- 学校：CQUPT
+- 工作室：REDROCK、CQUPTHUB
+- GOPHER
+- 喜欢二次元
 
 ## 技术栈
 - 语言：Golang
 - 框架：Gin、Gorm、Kitex、Hertz
 - 数据库：MySQL、Redis
 - 其他：Docker、Git、Linux
+
+## 联系我
+- Email：<hch20041214sr@qq.com>
+- Blog：<http://hch1212.online>
+- QQ：2159965839
