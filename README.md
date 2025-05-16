@@ -2,10 +2,10 @@
 
 欢迎来到我的主页 
 
-<div style="display: flex; justify-content: space-around;">
-    <img src="./images/aila1.gif" width="100" margin-right: 20px>
-    <img src="./images/aila2.gif" width="100" margin-right: 20px>
-    <img src="./images/aila3.gif" width="100">
+<div style="display: flex; justify-content: space-around; gap: 20px;">
+    <img src="./images/aila1.gif" width="100" style="margin: 0 20px;">
+    <img src="./images/aila2.gif" width="100" style="margin: 0 20px;">
+    <img src="./images/aila3.gif" width="100" style="margin: 0 20px;">
 </div>
 
 ## 关于我
