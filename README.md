@@ -10,13 +10,13 @@
 
 ## 关于我
 - 学校：CQUPT
-- 工作室：REDROCK、CQUPTHUB
+- 工作室：REDROCK
 - GOPHER
 - 喜欢二次元
 
 ## 技术栈
 - 语言：Golang
-- 框架：Gin、Gorm、Kitex、Hertz
+- 框架：Gin、Gorm、Kitex、Hertz、grpc
 - 数据库：MySQL、Redis
 - 其他：Docker、Git、Linux
 
