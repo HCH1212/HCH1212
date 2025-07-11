@@ -6,6 +6,7 @@
     <img src="./images/aila1.gif" width="100">
     <img src="./images/aila2.gif" width="100">
     <img src="./images/aila3.gif" width="100">
+    <img src="./images/aila4.gif" width="100">
 </div>
 
 ## 关于我
