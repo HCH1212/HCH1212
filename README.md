@@ -9,16 +9,16 @@
 </div>
 
 ## 关于我
-- 学校：CQUPT
-- 工作室：REDROCK
+- CQUPT
+- REDROCKER
 - GOPHER
-- 喜欢二次元
+- 二次元
 
 ## 技术栈
 - 语言：Golang
-- 框架：Gin、Gorm、Kitex、Hertz、grpc
-- 数据库：MySQL、Redis
-- 其他：Docker、Git、Linux
+- 数据库：MySQL、PostgreSQL
+- 中间件：Redis、Kafka
+- 其他：Docker、Git、Linux、k8s
 
 ## 联系我
 - Email：<hch20041214sr@qq.com>
