@@ -1,6 +1,4 @@
-### Hi there, I'm a Gopher. 👋 
-
-欢迎来到我的主页 
+### Hi there, I'm a backend developer.
 
 <div style="display: flex; justify-content: space-around;">
     <img src="./images/aila1.gif" width="100">
@@ -9,19 +7,21 @@
     <img src="./images/aila4.gif" width="100">
 </div>
 
-## 关于我
+## About Me
 - CQUPT
 - REDROCKER
 - GOPHER
-- 二次元
+- ACG
 
-## 技术栈
-- 语言：Golang
-- 数据库：MySQL、PostgreSQL
-- 中间件：Redis、Kafka
-- 其他：Docker、Git、Linux、k8s
+## Technology
+- Golang, Python
+- MySQL, PostgreSQL
+- Redis, Kafka
+- Prometheus, Grafana
+- Docker, Git, Linux, Kubernetes
+- AI Agent
 
-## 联系我
+## Connect Me
 - Email：<hch20041214sr@qq.com>
 - Blog：<https://hch1212.github.io>
 - QQ：2159965839
